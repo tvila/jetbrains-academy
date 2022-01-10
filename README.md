@@ -1,1 +1,1 @@
-Aquí publico algunas prácticas realizadas en el curso de Python de Jetbrains Academy
+Hola! Aquí van algunas prácticas que he realizado aprendiendo Python en Jetbrains Academy. 
