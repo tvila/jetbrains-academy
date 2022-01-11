@@ -48,4 +48,4 @@ for department in full_list.keys():
     file = open(file_name, 'w', encoding='utf-8')
     for text in dep_sorted:
         file.write(text + '\n')
-    file.close(
+    file.close()
